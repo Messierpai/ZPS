@@ -3,12 +3,11 @@
         {
             "name": "stm32f4xx_cs2323F",
             "includePath": [
-                "d:\\OP\\STM32\\project_stm32f4xx\\src\\startup",
-                "d:\\OP\\STM32\\project_stm32f4xx\\src\\stm32_std_drviers\\inc",
-                "C:\\Keil_v5\\ARM\\ARMCC\\include",
-                "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\OP\\STM32\\project_stm32f4xx\\src\\stm32_std_drviers\\src",
-                "d:\\OP\\STM32\\project_stm32f4xx\\src\\user"
+                "e:\\NewDesktop\\TY\\Messier\\src\\startup",
+                "e:\\NewDesktop\\TY\\Messier\\src\\stm32_std_drviers\\inc",
+                "D:\\Keil_v5\\ARM\\ARMCC\\include",
+                "e:\\NewDesktop\\TY\\Messier\\src\\stm32_std_drviers\\src",
+                "e:\\NewDesktop\\TY\\Messier\\src\\user"
             ],
             "defines": [
                 "STM32F40_41xxx",
